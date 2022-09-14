@@ -6,6 +6,7 @@ Busque por Pokémons digitando o nome ou o número.
 Clique em "PREV" para ver o Pokémon anterior em ordem numérica.
 Clique em "NEXT" para ver o próximo Pokémon em ordem numérica.
 
+Clique no link para acessar a Pokedéx: https://pedrusoad.github.io/pokedex/
 
 ============ ATUALIZAÇÕES POKEDÉX ===========
 1.API COM LIMITE DE 649 POKEMONS;
@@ -22,6 +23,7 @@ Search for Pokemons by typing the name or number.
 Click "PREV" to see the previous Pokémon in numerical order.
 Click "NEXT" to see the next Pokémon in numerical order.
 
+Click on the link to access the Pokedex: https://pedrusoad.github.io/pokedex/
 
 ============= POKEDEX UPDATES =============
 1.API WITH LIMIT OF 649 POKEMONS;
